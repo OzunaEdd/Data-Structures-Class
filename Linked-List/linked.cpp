@@ -4,7 +4,7 @@ Linked List Class
 Included Basic Functions To work with a Linked List
 */
 
-#include "linked.h"
+#include "linked.hpp"
 #include <iostream>
 using namespace std;
 
